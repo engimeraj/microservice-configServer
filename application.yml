@@ -1,3 +1,6 @@
+spring:
+  application:
+     name: bekarservice
 eureka:
   instance:
     hostname: localhost
