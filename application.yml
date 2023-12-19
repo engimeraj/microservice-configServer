@@ -1,6 +1,3 @@
-spring:
-  application:
-     name: khatrnak-SERVICE
 eureka:
   instance:
     hostname: localhost
